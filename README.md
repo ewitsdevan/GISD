@@ -23,6 +23,9 @@ chmod +x ./GISD.sh
   ### What dependencies are missing from SteamOS?
   `archlinux-keyring` which is required to verify signed packages, as well as `base-devel` which is required to build the Grapejuice package.
   
+  ### Will I need to setup Roblox after every SteamOS update?
+  No. The files for Grapejuice get stored in your .local folder and stay put after updates. After every update, just run the script again and Roblox will work again.
+  
   ### Why does an adult man care so much about getting Roblox to work on the Steam Deck.
   shut up.
   
